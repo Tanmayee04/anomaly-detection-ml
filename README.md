@@ -1,6 +1,3 @@
-# anomaly-detection-ml
-ML models to detect anomalies in IoT sensor data using Python and scikit-learn
-
 # Anomaly Detection in IoT Sensor Data
 
 This project implements machine learning models to detect anomalies in IoT sensor datasets. The models were built using Python, Pandas, NumPy, and scikit-learn.
